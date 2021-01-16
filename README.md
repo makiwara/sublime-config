@@ -53,7 +53,6 @@
     "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
     "draw_centered": true,
     "font_face": "PT Mono",
-    "font_size": 14,
     "gutter": false,
     "ignored_packages":
     [
