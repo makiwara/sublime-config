@@ -109,3 +109,6 @@
      },
 ]
 ```
+
+Только убедитесь, что пробелы неразрывные.
+https://en.wikipedia.org/wiki/Non-breaking_space
