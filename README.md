@@ -113,4 +113,4 @@
 Только убедитесь, что пробелы неразрывные.
 При копировании из веб-интерфейса Github они становятся обычными.
 Вот отсюда можно взять:
-https://en.wikipedia.org/wiki/Non-breaking_space
+https://unicode.flopp.net/c/00A0
