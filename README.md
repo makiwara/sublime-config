@@ -69,7 +69,7 @@
     "wrap_width": 80
 }
 ```
-
+      
 ## Прочие плагины
 Они не имеют прямого отношения к тексту. Я использую их для других своих проектов.
 
@@ -97,4 +97,15 @@
 Ну и, конечно, в конфиге:
 ```
     "indent_subsequent_lines": false,
+```
+
+Ещё можно сделать shortcut через `Preferences > Key Bindings`, вот так:
+```
+[
+    { 
+        "keys": ["shift+tab"], 
+        "command": "insert", 
+        "args": {"characters": "      "} 
+     },
+]
 ```
