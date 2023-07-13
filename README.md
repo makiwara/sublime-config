@@ -37,8 +37,8 @@
 - A File Icon (v.3) — иконки в левой панели
 - WordCount - считать количество слов и символов
     + символы включаются в настройках
+    + https://github.com/titoBouzout/WordCount (почему-то пропал из Install Package)
 - Word​Highlight - подсветка всех таких же слов, как то, что под курсором
-- Plain Tasks — список задач с чекбоксами
 - PackageResourceViewer - чтобы править темы (менять цвет заголовков)
 - Insert Unicode Character — вставлять красивые символы
 - OpenURI — чтобы ссылки легче открывать
