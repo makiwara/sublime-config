@@ -60,6 +60,7 @@
         "Vintage"
     ],
     "indent_subsequent_lines": false,
+    "draw_unicode_white_space": "none",
     "indent_to_bracket": true,
     "line_padding_bottom": 4,
     "line_padding_top": 4,
@@ -94,7 +95,7 @@
 На маке это `Alt-Space`.
 Я думаю пять пробелов — самое то.
 
-Ну и, конечно, в конфиг-файле:
+Ну и, конечно, в конфиг-файле (уже написано):
 ```
     "indent_subsequent_lines": false,
     "draw_unicode_white_space": "none",
@@ -115,9 +116,3 @@
 При копировании из веб-интерфейса Github они становятся обычными.
 Вот отсюда можно взять:
 https://unicode.flopp.net/c/00A0
-
-### Ой, у меня обновился Sublime, и вместо неразрывных пробелов котятки: <0x0>
-Чтобы вернуть как было, в конфиг-файл нужно добавить:
-```
-    "draw_unicode_white_space": "none",
-```
