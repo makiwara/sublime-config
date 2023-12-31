@@ -46,8 +46,6 @@
 ## Markdown.sublime-settings
 ```
 {
-// These settings override both User and Default settings for the Markdown Extended syntax
-{
     "spell_check": true,
     "translate_tabs_to_spaces": true,
     "dictionary": "Packages/User/Russian-English Bilingual.dic",
