@@ -21,7 +21,7 @@
 - Color Scheme:
     - Ayu — светлая и тёмная (использую для кода)
     - MarkdownEditing — светлая (основная для текста)
-        + можно сделать заголовки синими (#0051F3)
+        + можно сделать заголовки синими — см. `sublime-color-scheme` внизу.
 
 ## 5. Monospace Fonts
 - https://www.creativebloq.com/features/the-best-monospace-fonts-for-coding
@@ -66,6 +66,21 @@
     "wrap_width": 80,
     "font_size": 14,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~? ’‘「」",
+}
+```
+
+## MarkdownEditor.sublime-color-scheme
+```
+{
+    "rules":
+    [
+        {
+            "name": "Markdown: Headings",
+            "scope": "entity.name.section.markdown, punctuation.definition.heading.begin.markdown, punctuation.definition.heading.end.markdown",
+            "foreground": "#0051F3",
+            "font_style": "bold",
+        },
+    ]
 }
 ```
       
