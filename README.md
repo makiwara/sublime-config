@@ -46,28 +46,26 @@
 ## Markdown.sublime-settings
 ```
 {
+// These settings override both User and Default settings for the Markdown Extended syntax
+{
     "spell_check": true,
     "translate_tabs_to_spaces": true,
     "dictionary": "Packages/User/Russian-English Bilingual.dic",
     "fallback_encoding": "Cyrillic (Windows 1251)",
-    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
     "draw_centered": true,
     "font_face": "PT Mono",
     "gutter": false,
-    "ignored_packages":
-    [
-        "Markdown",
-        "Vintage"
-    ],
     "indent_subsequent_lines": false,
     "draw_unicode_white_space": "none",
+    "color_scheme": "MarkdownEditor.sublime-color-scheme",
     "indent_to_bracket": true,
     "line_padding_bottom": 4,
     "line_padding_top": 4,
     "scroll_past_end": true,
-    "theme": "ayu-light.sublime-theme",
     "word_wrap": true,
-    "wrap_width": 80
+    "wrap_width": 80,
+    "font_size": 14,
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~? ’‘「」",
 }
 ```
       
