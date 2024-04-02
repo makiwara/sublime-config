@@ -9,7 +9,7 @@
 
 ## 2. Spell check
 - https://www.sublimetext.com/docs/3/spell_checking.html
-- https://devmag.ru/sublime-text-3-spellcheck/
+- https://github.com/titoBouzout/Dictionaries (Ru-Eng.*)
 
 ## 3. Text editor settings
 - включить поддержку спеллера
