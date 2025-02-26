@@ -63,6 +63,7 @@
     "word_wrap": true,
     "wrap_width": 80,
     "font_size": 14,
+    "file_exclude_patterns": [ ".DS_Store" ],
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~? ’‘「」",
 }
 ```
